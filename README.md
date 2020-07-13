@@ -1,0 +1,1 @@
+# manual-react-app-setup
